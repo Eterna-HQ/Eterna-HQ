@@ -1,15 +1,15 @@
 # Eterna Clarity
 
-Eterna Clarity is a small systems company in Calgary, Canada. We build practical AI systems for small businesses and film events across the city: Media Production, Xyterna, the Adaptive Business Tune-Up and Custom Systems.
+Eterna Clarity is a Calgary-based media production and software company. We shoot and edit content, build custom systems, help businesses tune up how they work, and develop Xyterna to make everyday information easier to organize and use. Behind it, our AI-enabled Engine and Workspace connect knowledge, tools and execution. We document the work, ideas and lessons in public through articles, videos, demonstrations and Founder Chronicles.
 
 **Complexity in. Clarity out.**
 
 ## What we do
 
-- **Media Production**: our lead service. Event videography, photography and social content in Calgary: corporate parties, conferences, launches, weddings, nightlife, sports, nonprofits and more. One or two of us film; everything is edited in our own studio and ready within 24 hours, originals included, every reel in portrait and landscape. Pilot packages by the hour, no deposit during the pilot: 2 hours $299 CAD, 4 hours $499, 6 hours $699, 8 hours $899. Editing-only work priced by project. Real moments. Ready for tomorrow. [eternaclarity.com/mediaproduction](https://eternaclarity.com/mediaproduction/)
-- **Xyterna**: take a photo or upload a file, and move on. Xyterna processes it, organizes it, remembers it and connects related information over time. [eternaclarity.com/xyterna](https://eternaclarity.com/xyterna)
-- **Adaptive Business Tune-Up**: hands-on cleanup of a business's files and systems, two cleanup hours included, plus a reviewed eight-area report. Starts at $299 CAD. [eternaclarity.com/businesstuneup](https://eternaclarity.com/businesstuneup/)
-- **Custom Systems**: the missing layer around what already works, so leads, follow-ups, approvals and status checks stop routing through the owner. [eternaclarity.com/customsystems](https://eternaclarity.com/customsystems)
+- **Media Production** shoots, produces and edits content for businesses, events, organizations and creators. We turn real moments into videos, reels, edited photos and graphics for people to use across their websites, social channels and marketing. [eternaclarity.com/mediaproduction](https://eternaclarity.com/mediaproduction/)
+- **Custom Systems** brings ideas and operational needs to life through purpose-built software, AI systems, automation, integrations, websites, digital experiences and interconnected business solutions. [eternaclarity.com/customsystems](https://eternaclarity.com/customsystems)
+- **Adaptive Business Tune-Up (ABT)** helps small businesses get their working files in order and understand how their existing systems and operations are performing. It combines hands-on organization with an inside-and-out investigation across eight areas and a private report showing what is working, what needs attention and what could not be confirmed. [eternaclarity.com/businesstuneup](https://eternaclarity.com/businesstuneup/)
+- **Xyterna** is our launched SaaS product, designed to make everyday life and business easier by organizing information and making it useful. It connects files, photos, records and related details, highlights what needs attention, and lets people ask questions with answers grounded in their own material. [eternaclarity.com/xyterna](https://eternaclarity.com/xyterna)
 
 ## Free resources
 
