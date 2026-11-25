@@ -1,6 +1,6 @@
 # Eterna Clarity
 
-Eterna Clarity is a Calgary-based media production and software company. We shoot and edit content, build custom systems, help businesses tune up how they work, and develop Xyterna to make everyday information easier to organize and use. Behind it, our AI-enabled Engine and Workspace connect knowledge, tools and execution. We document the work, ideas and lessons in public through articles, videos, demonstrations and Founder Chronicles.
+Eterna Clarity is a media production and software company headquartered in Calgary. We build websites, apps and workflows for businesses across Canada and make films, reels, photos and graphics for things worth sharing. We edit at Calgary HQ, are recruiting local creators across Canada and confirm filming by location. We built Xyterna to help people find answers in everyday records. Our films, software and Founder Chronicles show what we make and how we got there.
 
 **Complexity in. Clarity out.**
 
@@ -8,7 +8,6 @@ Eterna Clarity is a Calgary-based media production and software company. We shoo
 
 - **Media Production** shoots, produces and edits content for businesses, events, organizations and creators. We turn real moments into videos, reels, edited photos and graphics for people to use across their websites, social channels and marketing. [eternaclarity.com/mediaproduction](https://eternaclarity.com/mediaproduction/)
 - **Custom Systems** brings ideas and operational needs to life through purpose-built software, AI systems, automation, integrations, websites, digital experiences and interconnected business solutions. [eternaclarity.com/customsystems](https://eternaclarity.com/customsystems)
-- **Adaptive Business Tune-Up (ABT)** helps small businesses get their working files in order and understand how their existing systems and operations are performing. It combines hands-on organization with an inside-and-out investigation across eight areas and a private report showing what is working, what needs attention and what could not be confirmed. [eternaclarity.com/businesstuneup](https://eternaclarity.com/businesstuneup/)
 - **Xyterna** is our launched SaaS product, designed to make everyday life and business easier by organizing information and making it useful. It connects files, photos, records and related details, highlights what needs attention, and lets people ask questions with answers grounded in their own material. [eternaclarity.com/xyterna](https://eternaclarity.com/xyterna)
 
 ## Free resources
